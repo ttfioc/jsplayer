@@ -14,7 +14,7 @@ var generatelist = function(){//生成播放列表+播放
 			title:"always",
 			mp3:"a.mp3",
 			ogg:"a.ogg"
-		},
+		}
 	]
 	var jsplayer = document.getElementById("jsplayer");
 	var jsplayersound = document.getElementById("jsplayersound");
